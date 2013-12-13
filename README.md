@@ -1,0 +1,1 @@
+Elasticsearch + twitter bootstrap 3 typeahead
