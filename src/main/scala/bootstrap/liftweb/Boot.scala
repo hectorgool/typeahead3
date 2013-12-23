@@ -8,7 +8,6 @@ import common._
 import http._
 import sitemap._
 import Loc._
-import net.liftmodules.JQueryModule
 import net.liftweb.http.js.jquery._
 
 
